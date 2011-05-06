@@ -34,7 +34,7 @@ input {
 	font-size: 3em;
 	background: #ffffd3;
 	border:1px solid #cccccc;
-	font-family: 'Allerta', Georgia, "Times New Roman", Times, serif;
+	font-family: 'Rokkitt', 'Allerta', Georgia, "Times New Roman", Times, serif;
 	height:1.2em;
 	line-height: 1.4;
 	width:100%;
@@ -57,13 +57,13 @@ h3 {
 }
 
 h1, h2, h3 {
-	color:#1d8ac3;
-	font-family: 'Allerta', Georgia, "Times New Roman", Times, serif;
+	color:#FBB040;
+	font-family: 'Rokkitt', 'Allerta', Georgia, "Times New Roman", Times, serif;
 	cursor: pointer;
 }
 
 h1:hover, h2:hover, h3:hover {
-	color:#ff3030;
+	color:#1d8ac3;
 }
 
 p {
